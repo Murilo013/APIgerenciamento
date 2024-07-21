@@ -22,7 +22,8 @@ Esta API é uma aplicação de gerenciamento para transporte de cargas, permitin
 1. Clone o repositório:
 - git clone https://github.com/Murilo013/APIgerenciamento.git
 
-2. Vá até diretorio  
+2. Vá até diretorio
+- cd APIgerenciamento
 - cd apiGBM
 
 3. Restaure as dependências
