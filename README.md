@@ -23,7 +23,7 @@ Esta API é uma aplicação de gerenciamento para transporte de cargas, permitin
 - git clone https://github.com/Murilo013/APIgerenciamento.git
 
 2. Vá até diretorio  
-- cd nome-do-repositorio
+- cd apiGBM
 
 3. Restaure as dependências
 - dotnet restore
