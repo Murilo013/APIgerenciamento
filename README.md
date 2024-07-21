@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Esta API é uma aplicação de gerenciamento para transporte de cargas, permitindo o gerenciamento completo de motoristas, caminhões e entregas. A API oferece operações CRUD para cada entidade e suporta a associação de motoristas a caminhões e a atribuição de entregas a motoristas e caminhões.
+Esta API é uma aplicação de gerenciamento para transporte de cargas, permitindo o gerenciamento completo de motoristas, caminhões e entregas. A API oferece operações CRUD para cada entidade e suporta a associação de motoristas a caminhões e a atribuição de entregas a motoristas/caminhões.
 
 ## Funcionalidades
 
@@ -13,7 +13,7 @@ Esta API é uma aplicação de gerenciamento para transporte de cargas, permitin
 
 ## Tecnologias Utilizadas
 
-- **Backend:** C# e .NET Core
+- **Backend:** C# e .NET Core / Entity Framework
 - **Banco de Dados:** PostgreSQL
 - **Documentação:** OpenAPI/Swagger
 
