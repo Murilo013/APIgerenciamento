@@ -19,26 +19,26 @@ Esta API é uma aplicação de gerenciamento para transporte de cargas, permitin
 
 ## Instalação
 
-1.Clone o repositório:
+1. Clone o repositório:
 - git clone https://github.com/Murilo01/APIgerenciamento.git
 
-2.Vá até diretorio  
+2. Vá até diretorio  
 - cd nome-do-repositorio
 
-3.Restaure as dependências
+3. Restaure as dependências
 - dotnet restore
 
-4.O Projeto está conectado a um banco de dados na nuvem para que seja possível efetuar testes porem se preferirem podem alterar a string de conexão que está na pasta Infra/ConexãoContext
+4. O Projeto está conectado a um banco de dados na nuvem para que seja possível efetuar testes porem se preferirem podem alterar a string de conexão que está na pasta Infra/ConexãoContext
 - "Server=;" +
 - "Port=;" +
 - "Database=;" +
 - "User Id=;" +
 - "Password=;"
 
-5.Atualize o banco de dados:
+5. Atualize o banco de dados:
 - dotnet ef database update
 
-6.Inicie a API:
+6. Inicie a API:
 - dotnet run
 
 
