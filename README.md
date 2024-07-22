@@ -17,6 +17,7 @@ Esta API é uma aplicação de gerenciamento para transporte de cargas, permitin
 - **Banco de Dados:** PostgreSQL
 - **Documentação:** OpenAPI/Swagger
 
+## Observação
 O Projeto está conectado a um banco de dados na nuvem para que seja possível efetuar testes porem se preferirem podem alterar a string de conexão que está na pasta Infra/ConexãoContext
 - "Server=;" +
 - "Port=;" +
