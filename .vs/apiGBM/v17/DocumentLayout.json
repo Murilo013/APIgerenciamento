@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\controllers\\motoristacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\controllers\\motoristacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\models\\icaminhaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\models\\icaminhaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\controllers\\caminhaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\controllers\\caminhaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\infra\\caminhaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\infra\\caminhaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\infra\\conex\u00E3ocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\infra\\conex\u00E3ocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\view\\caminhaoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\view\\caminhaoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\controllers\\entregacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\controllers\\entregacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\migrations\\20240721211651_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\migrations\\20240721211651_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\migrations\\conex\u00E3ocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\migrations\\conex\u00E3ocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\view\\motoristaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\view\\motoristaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\view\\entregaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\view\\entregaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\models\\motorista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\models\\motorista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\models\\imotoristarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\models\\imotoristarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\models\\ientregarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\models\\ientregarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\models\\entrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\models\\entrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\models\\caminhao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\models\\caminhao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\apigbm.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\apigbm.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\infra\\entregarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\infra\\entregarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\apigbm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\apigbm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\apigbm\\apigbm\\infra\\motoristarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBB7E98-B434-4C83-B496-299E25ACCC06}|apiGBM\\apiGBM.csproj|solutionrelative:apigbm\\infra\\motoristarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Entrega.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Models\\Entrega.cs",
+              "RelativeDocumentMoniker": "apiGBM\\Models\\Entrega.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Models\\Entrega.cs",
+              "RelativeToolTip": "apiGBM\\Models\\Entrega.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:58:55.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Caminhao.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Models\\Caminhao.cs",
+              "RelativeDocumentMoniker": "apiGBM\\Models\\Caminhao.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Models\\Caminhao.cs",
+              "RelativeToolTip": "apiGBM\\Models\\Caminhao.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:56:12.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\.gitignore",
+              "RelativeDocumentMoniker": "apiGBM\\.gitignore",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\.gitignore",
+              "RelativeToolTip": "apiGBM\\.gitignore",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEoAAAANAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-21T20:31:15.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\README.md",
+              "RelativeDocumentMoniker": "apiGBM\\README.md",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\README.md",
+              "RelativeToolTip": "apiGBM\\README.md",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-21T21:41:28.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMotoristaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Models\\IMotoristaRepository.cs",
+              "RelativeDocumentMoniker": "apiGBM\\Models\\IMotoristaRepository.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Models\\IMotoristaRepository.cs",
+              "RelativeToolTip": "apiGBM\\Models\\IMotoristaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:39:18.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntregaController.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Controllers\\EntregaController.cs",
+              "RelativeDocumentMoniker": "apiGBM\\Controllers\\EntregaController.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Controllers\\EntregaController.cs",
+              "RelativeToolTip": "apiGBM\\Controllers\\EntregaController.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAcwMUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:31:36.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conex\u00E3oContext.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Infra\\Conex\u00E3oContext.cs",
+              "RelativeDocumentMoniker": "apiGBM\\Infra\\Conex\u00E3oContext.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Infra\\Conex\u00E3oContext.cs",
+              "RelativeToolTip": "apiGBM\\Infra\\Conex\u00E3oContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:40:38.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CaminhaoController.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Controllers\\CaminhaoController.cs",
+              "RelativeDocumentMoniker": "apiGBM\\Controllers\\CaminhaoController.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Controllers\\CaminhaoController.cs",
+              "RelativeToolTip": "apiGBM\\Controllers\\CaminhaoController.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAASwOIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T01:52:03.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MotoristaController.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Controllers\\MotoristaController.cs",
+              "RelativeDocumentMoniker": "apiGBM\\Controllers\\MotoristaController.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Controllers\\MotoristaController.cs",
+              "RelativeToolTip": "apiGBM\\Controllers\\MotoristaController.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAAALIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:50:19.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICaminhaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Models\\ICaminhaoRepository.cs",
+              "RelativeDocumentMoniker": "apiGBM\\Models\\ICaminhaoRepository.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Models\\ICaminhaoRepository.cs",
+              "RelativeToolTip": "apiGBM\\Models\\ICaminhaoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T01:31:45.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CaminhaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Infra\\CaminhaoRepository.cs",
+              "RelativeDocumentMoniker": "apiGBM\\Infra\\CaminhaoRepository.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Infra\\CaminhaoRepository.cs",
+              "RelativeToolTip": "apiGBM\\Infra\\CaminhaoRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T01:32:43.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEntregaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Models\\IEntregaRepository.cs",
+              "RelativeDocumentMoniker": "apiGBM\\Models\\IEntregaRepository.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Models\\IEntregaRepository.cs",
+              "RelativeToolTip": "apiGBM\\Models\\IEntregaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:12:40.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "apiGBM.http",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\apiGBM.http",
+              "RelativeDocumentMoniker": "apiGBM\\apiGBM.http",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\apiGBM.http",
+              "RelativeToolTip": "apiGBM\\apiGBM.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-19T22:30:27.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240721211651_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Migrations\\20240721211651_InitialCreate.cs",
+              "RelativeDocumentMoniker": "apiGBM\\Migrations\\20240721211651_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Migrations\\20240721211651_InitialCreate.cs",
+              "RelativeToolTip": "apiGBM\\Migrations\\20240721211651_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T21:17:38.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CaminhaoView.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\View\\CaminhaoView.cs",
+              "RelativeDocumentMoniker": "apiGBM\\View\\CaminhaoView.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\View\\CaminhaoView.cs",
+              "RelativeToolTip": "apiGBM\\View\\CaminhaoView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T01:22:54.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Conex\u00E3oContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Migrations\\Conex\u00E3oContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "apiGBM\\Migrations\\Conex\u00E3oContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Migrations\\Conex\u00E3oContextModelSnapshot.cs",
+              "RelativeToolTip": "apiGBM\\Migrations\\Conex\u00E3oContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T21:17:17.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Motorista.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Models\\Motorista.cs",
+              "RelativeDocumentMoniker": "apiGBM\\Models\\Motorista.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Models\\Motorista.cs",
+              "RelativeToolTip": "apiGBM\\Models\\Motorista.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:33:31.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntregaView.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\View\\EntregaView.cs",
+              "RelativeDocumentMoniker": "apiGBM\\View\\EntregaView.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\View\\EntregaView.cs",
+              "RelativeToolTip": "apiGBM\\View\\EntregaView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:39:01.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MotoristaView.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\View\\MotoristaView.cs",
+              "RelativeDocumentMoniker": "apiGBM\\View\\MotoristaView.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\View\\MotoristaView.cs",
+              "RelativeToolTip": "apiGBM\\View\\MotoristaView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:54:20.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\appsettings.json",
+              "RelativeDocumentMoniker": "apiGBM\\appsettings.json",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\appsettings.json",
+              "RelativeToolTip": "apiGBM\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T22:30:23.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Program.cs",
+              "RelativeDocumentMoniker": "apiGBM\\Program.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Program.cs",
+              "RelativeToolTip": "apiGBM\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:03:48.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "apiGBM\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Properties\\launchSettings.json",
+              "RelativeToolTip": "apiGBM\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwBUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T04:09:28.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EntregaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Infra\\EntregaRepository.cs",
+              "RelativeDocumentMoniker": "apiGBM\\Infra\\EntregaRepository.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Infra\\EntregaRepository.cs",
+              "RelativeToolTip": "apiGBM\\Infra\\EntregaRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBoAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:28:05.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "apiGBM.csproj",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\apiGBM.csproj",
+              "RelativeDocumentMoniker": "apiGBM\\apiGBM.csproj",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\apiGBM.csproj",
+              "RelativeToolTip": "apiGBM\\apiGBM.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T20:53:18.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MotoristaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Infra\\MotoristaRepository.cs",
+              "RelativeDocumentMoniker": "apiGBM\\Infra\\MotoristaRepository.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\apiGBM\\apiGBM\\Infra\\MotoristaRepository.cs",
+              "RelativeToolTip": "apiGBM\\Infra\\MotoristaRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:44:29.001Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,5 @@
-﻿using apiGBM.Models;
+﻿using apiGBM.Infra;
+using apiGBM.Models;
 using apiGBM.View;
 using Microsoft.AspNetCore.Mvc;
 using System.Net.Mime;
@@ -10,11 +11,13 @@ namespace apiGBM.Controllers
     public class MotoristaController : ControllerBase
     {
         private readonly IMotoristaRepository _motoristaRepository;
+        private readonly ICaminhaoRepository _caminhaoRepository;
 
-        public MotoristaController(IMotoristaRepository motoristaRepository)
+        public MotoristaController(IMotoristaRepository motoristaRepository,ICaminhaoRepository caminhaoRepository)
 
         {   
             _motoristaRepository = motoristaRepository ?? throw new ArgumentNullException();
+            _caminhaoRepository = caminhaoRepository ?? throw new ArgumentNullException();
         }
         
         /// <summary>
@@ -168,6 +171,12 @@ namespace apiGBM.Controllers
             {
                 return NotFound("CPF NÃO CADASTRADO"); // RETORNA "NÃO ENCONTRADO" SE NÃO EXISTIR
             }
+
+            var caminhaomotorista = _caminhaoRepository.GetByCPF(cd_CPF);
+            if(caminhaomotorista != null) 
+            {
+                return Conflict("Não foi possivel deletar, o motorista possue um caminhão cadastrado");
+            } 
 
             // Chama o repositório para deletar o motorista do banco de dados
             _motoristaRepository.Delete(motorista);
